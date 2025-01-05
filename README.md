@@ -31,6 +31,12 @@ Libraries & Tools: tidyverse, lubridate, data.table, ggplot2, Shiny
 Statistical Methods: ANOVA, Correlation Analysis, Linear Regression
 Data: Energy usage and weather data at building and county levels
 
+![WhatsApp Image 2025-01-05 at 6 09 26 PM-3](https://github.com/user-attachments/assets/1db87838-7269-48d0-8c58-236adf9f1a46)
+
+![WhatsApp Image 2025-01-05 at 6 09 26 PM](https://github.com/user-attachments/assets/202a2021-455f-4db2-ac14-2db4b06244be)
+
+![WhatsApp Image 2025-01-05 at 6 09 26 PM-2](https://github.com/user-attachments/assets/8a0f4e49-1bee-400e-972f-8047de659249)
+
 
 Data Source:
 
